@@ -1,0 +1,29 @@
+{
+  "name": "webkit-cssui-eq-width",
+  "description": "Webkit css ui module for equal width.",
+  "main": [
+    "dist/eq-width.css",
+    "dist/eq-width.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "eq-width"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

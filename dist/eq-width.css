@@ -1,0 +1,12 @@
+/*eq-width Start*/
+.eq-width {
+  display: table;
+  table-layout: fixed;
+}
+
+.eq-width > * {
+  display: table-cell;
+  width: 1%;
+}
+
+/*eq-width End*/
