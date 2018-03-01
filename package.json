@@ -1,13 +1,17 @@
 {
-  "name": "webkit-cssui-eq-width",
+  "name": "webkit-sassui-tbc-eq-width",
   "version": "0.0.0",
   "description": "Webkit css ui module for equal width.",
-  "homepage": "https://github.com/afeiship/webkit-cssui-eq-width",
+  "homepage": "https://github.com/afeiship/webkit-sassui-tbc-eq-width",
   "author": {
     "name": "afei",
     "email": "1290657123@qq.com"
   },
+  "scripts": {
+    "build": "gulp"
+  },
   "license": "MIT",
+  "main": "",
   "devDependencies": {
     "del": "^2.2.1",
     "gulp": "^3.9.1",

@@ -1,5 +1,5 @@
 {
-  "name": "webkit-cssui-eq-width",
+  "name": "webkit-sassui-tbc-eq-width",
   "description": "Webkit css ui module for equal width.",
   "main": [
     "dist/eq-width.css",

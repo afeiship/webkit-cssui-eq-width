@@ -1,4 +1,4 @@
-# webkit-cssui-eq-width
+# webkit-sassui-tbc-eq-width
 > Webkit css ui module for equal width.
 
 ## usage:
