@@ -11,7 +11,7 @@
     "build": "gulp"
   },
   "license": "MIT",
-  "main": "",
+  "main": "dist/webkit-sassui-tbc-eq-width.scss",
   "devDependencies": {
     "del": "^2.2.1",
     "gulp": "^3.9.1",
