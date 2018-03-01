@@ -2,6 +2,7 @@
 > Webkit css ui module for equal width.
 
 ## usage:
++ https://afeiship.github.io/webkit-sassui-tbc-eq-width/
 
 ## resources:
 + https://github.com/afeiship/generator-webkit-cssui
